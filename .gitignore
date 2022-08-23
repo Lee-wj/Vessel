@@ -1,6 +1,7 @@
 # 忽略当前目录下的Debug文件
 Debug/
 Release/
+*.obj
 x64
 .vs
 
